@@ -43,6 +43,7 @@ Today, what are the top 10 stations in the city for starting a journey? (Based o
 * 8.	Broadway & E 14 St
 * 9.	Broadway & W 60 St
 * 10.	W 20 St. & 11 Ave
+  * These are the top starting 10 locations because they are near major transportation hubs (MTA stations), and also near bike routes (i.e. Central Park, Westside Highway) which are popular amongst riders
 
 Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
 * 1.	West St. Chambers St
@@ -55,6 +56,7 @@ Today, what are the top 10 stations in the city for ending a journey? (Based on 
 * 8.	8 Ave & W 31 St
 * 9.	Christopher St & Greenwich St
 * 10.	Broadway & E 14 St
+  * These are the top ending 10 locations because they are the piers of the Hudson River.  
 
 
 Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
@@ -68,6 +70,8 @@ Today, what are the bottom 10 stations in the city for starting a journey? (Base
 * 8.	Gowanus Tech Station
 * 9.	Prospect Ave. Longwood
 * 10.	8D Mobile
+  * The bottom 10 stations for starting a journey are either at repair Centers, NYC bus stations or in the Bronx, and outside of Manhattan, which has th largest concentration of bike stations
+
 
 Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 * 1.	8D Mobile 01
@@ -80,6 +84,7 @@ Today, what are the bottom 10 stations in the city for ending a journey (Based o
 * 8.	Dey St
 * 9.	Fairmount Ave
 * 10.	Harborside
+ * The bottom 10 stations for end a journey are either at repair Centers, our outside of Manhattan, such as the Bronx and Staten Island. 
 
 Today, what is the gender breakdown of active participants (Male v. Female)?
 * Males use the bikes more in 2020 by 47%.  Also, again in 2019 by 62%.    However, Females have a higher duration of bike trip if they do use service.  There is a sufficient amount of riders that don’t share their gender either for both years so the numbers are subjective. 
