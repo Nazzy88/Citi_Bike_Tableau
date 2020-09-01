@@ -44,7 +44,7 @@ What are the peak hours in which bikes are used during summer months?
 * The peak hours for July End Times are 8am, 9am, and 6pm.
 
 Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-*1.	West St. Chambers St
+* 1.	West St. Chambers St
 * 2.	E 17 St & Broadway
 * 3.	Pershing Square North
 * 4.	12 Ave & W 40th St
@@ -56,50 +56,50 @@ Today, what are the top 10 stations in the city for starting a journey? (Based o
 * 10.	W 20 St. & 11 Ave
 
 Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-*1.	West St. Chambers St
-2.	E 17 St & Broadway
-3.	12 Ave & W 40 St
-4.	Pershing Square North
-5.	W 21 St & 6 Ave
-6.	Broadway & E 22 St
-7.	8 Ave & W 31 St
-8.	Christopher St & Greenwich St
-9.	Broadway & E 14 St
+* 1.	West St. Chambers St
+* 2.	E 17 St & Broadway
+* 3.	12 Ave & W 40 St
+* 4.	Pershing Square North
+* 5.	W 21 St & 6 Ave
+* 6.	Broadway & E 22 St
+* 7.	8 Ave & W 31 St
+* 8.	Christopher St & Greenwich St
+* 9.	Broadway & E 14 St
 
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-1.	NYCBS Depot -PIT
-2.	Kiosk in a box Deployment
-3.	8D OPS 01
-4.	SSP Tech Workshop
-5.	Brook Ave. & E 157 St
-6.	NYCBS Depot – FAR
-7.	E156 & Brook Ave
-8.	Gowanus Tech Station
-9.	Prospect Ave. Longwood
-10.	8D Mobile
+Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+* 1.	NYCBS Depot -PIT
+* 2.	Kiosk in a box Deployment
+* 3.	8D OPS 01
+* 4.	SSP Tech Workshop
+* 5.	Brook Ave. & E 157 St
+* 6.	NYCBS Depot – FAR
+* 7.	E156 & Brook Ave
+* 8.	Gowanus Tech Station
+* 9.	Prospect Ave. Longwood
+* 10.	8D Mobile
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-1.	8D Mobile 01
-2.	8D QC Station 01
-3.	Baldwin at Montgomery
-4.	Bike Mechanics at Riis Room A
-5.	Bike Mechanics at Riis Room B
-6.	Brunswick St
-7.	Columbus Dr at Exchange Pl
-8.	Dey St
-9.	Fairmount Ave
-10.	Harborside
+Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+* 1.	8D Mobile 01
+* 2.	8D QC Station 01
+* 3.	Baldwin at Montgomery
+* 4.	Bike Mechanics at Riis Room A
+* 5.	Bike Mechanics at Riis Room B
+* 6.	Brunswick St
+* 7.	Columbus Dr at Exchange Pl
+* 8.	Dey St
+* 9.	Fairmount Ave
+* 10.	Harborside
 
-* Today, what is the gender breakdown of active participants (Male v. Female)?
-** Males use the bikes more in 2020 by 47%.  Also, again in 2019 by 62%.    However, Females have a higher duration of bike trip if they do use service.  There is a sufficient amount of riders that don’t share their gender either for both years so the numbers are subjective. 
+Today, what is the gender breakdown of active participants (Male v. Female)?
+* Males use the bikes more in 2020 by 47%.  Also, again in 2019 by 62%.    However, Females have a higher duration of bike trip if they do use service.  There is a sufficient amount of riders that don’t share their gender either for both years so the numbers are subjective. 
 
-* How effective has gender outreach been in increasing female ridership over the timespan?
-•	It looks like growth was the most in 2016 by 36.90 % and in 2017 by 34.99 %.  After that it drop off to the teens for the rest of the years till 2020.
+How effective has gender outreach been in increasing female ridership over the timespan?
+* It looks like growth was the most in 2016 by 36.90 % and in 2017 by 34.99 %.  After that it drop off to the teens for the rest of the years till 2020.
 
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-•	16734
-•	16808
-•	18275
-•	16763
-** This is due to having the top trip duration. 
+Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+* 	16734
+* 	16808
+* 	18275
+* 	16763
+* These IDs were mentioned due to having the longest trip duration. 
