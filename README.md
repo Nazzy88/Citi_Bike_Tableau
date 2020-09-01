@@ -25,7 +25,7 @@ By what percentage has total ridership grown?
 * It varies from year to year in July. The biggest increase was from 2015 to 2016 with a 27.12 % increase.  Currently there is a dip from 2019 to 2020 with a loss of 3.45%.  This could be due to Covid-19.  To be honest I thought the dip would be more since everyone is quarantining.  However, it looks like people are taking sanitary precautions such as gloves in order to rent the bikes.  OR they could be using their own bikes and using Citi Bike’s locks.   
 
 How has the proportion of short-term customers and annual subscribers changed?
-* When I did look at the month of July from 2013 to 2020.
+* When looking at the month of July from 2013 to 2020.
 It looks like there was a huge growth in subscribers in 2014 by 27.12%, it looks like people who were customers in 2013 became subscribers in 2014, that is why there is a dip by -31.93 for customers in 2014.  It looks like there is a big increase in customers from 2014 to 2015 by 51.48%.  That being said there is only a 6.54 % in 2015 for subscribers.  From 2016 to 2017 there seems to be a fruitful year since there is 29.63% increase in customer and a 25.09% increase in subscribers.  The year 2019 to 2020 you will see an interesting increase in 52.07% in customers and a dip by -15.09%.  This could be because the consumer is still concerned about quarantining and doesn’t want to use public transportation such as the subway.  Also, there is a drop in subscriptions due to unemployment and making commitments during a financial chaotic time.    
 
 What are the peak hours in which bikes are used during summer months?
