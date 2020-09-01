@@ -96,7 +96,7 @@ The peak hours for July End Times are 8am, 9am, and 6pm.
 10.	Harborside
 
 * Today, what is the gender breakdown of active participants (Male v. Female)?
-Males use the bikes more in 2020 by 47%.  Also, again in 2019 by 62%.    However, Females have a higher duration of bike trip if they do use service.  There is a sufficient amount of riders that don’t share their gender either for both years so the numbers are subjective. 
+** Males use the bikes more in 2020 by 47%.  Also, again in 2019 by 62%.    However, Females have a higher duration of bike trip if they do use service.  There is a sufficient amount of riders that don’t share their gender either for both years so the numbers are subjective. 
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 •	It looks like growth was the most in 2016 by 36.90 % and in 2017 by 34.99 %.  After that it drop off to the teens for the rest of the years till 2020.
