@@ -29,38 +29,34 @@ However, while the data has been regularly updated, the team has yet to implemen
 **Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
 
 **The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
-* How many trips have been recorded total during the chosen period?
-There are over 12 million for the month of July years 2013-2020.
+How many trips have been recorded total during the chosen period?
+* There are over 12 million for the month of July years 2013-2020.
 
-* By what percentage has total ridership grown?
+By what percentage has total ridership grown?
+* It varies from year to year in July. The biggest increase was from 2015 to 2016 with a 27.12 % increase.  Currently there is a dip from 2019 to 2020 with a loss of 3.45%.  This could be due to Covid-17.  To be honest I thought the dip would be more since everyone is quarantining.  However, it looks like people are taking sanitary precautions such as gloves in order to rent the bikes.  OR they could be using their own bikes and using Citi Bike’s locks.   
 
-It varies from year to year in July. The biggest increase was from 2015 to 2016 with a 27.12 % increase.  Currently there is a dip from 2019 to 2020 with a loss of 3.45%.  This could be due to Covid-17.  To be honest I thought the dip would be more since everyone is quarantining.  However, it looks like people are taking sanitary precautions such as gloves in order to rent the bikes.  OR they could be using their own bikes and using Citi Bike’s locks.   
-
-* How has the proportion of short-term customers and annual subscribers changed?
-
-Please note that I did look at the month of July from 2013 to 2020.
+How has the proportion of short-term customers and annual subscribers changed?
+* Please note that I did look at the month of July from 2013 to 2020.
 It looks like there was a huge growth in subscribers in 2014 by 27.12%, it looks like people who were customers in 2013 became subscribers in 2014, that is why there is a dip by -31.93 for customers in 2014.  It looks like there is a big increase in customers from 2014 to 2015 by 51.48%.  That being said there is only a 6.54 % in 2015 for subscribers.  From 2016 to 2017 there seems to be a fruitful year since there is 29.63% increase in customer and a 25.09% increase in subscribers.  The year 2019 to 2020 you will see an interesting increase in 52.07% in customers and a dip by -15.09%.  This could be because the consumer is still concerned about quarantining and doesn’t want to use public transportation such as the subway.  Also, there is a drop in subscriptions due to unemployment and making commitments during a financial chaotic time.    
 
+What are the peak hours in which bikes are used during summer months?
+* The peak hours for July Start Times are 8am,5pm, and 6pm.
+* The peak hours for July End Times are 8am, 9am, and 6pm.
 
-* What are the peak hours in which bikes are used during summer months?
-The peak hours for July Start Times are 8am,5pm, and 6pm.
-The peak hours for July End Times are 8am, 9am, and 6pm.
+Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+*1.	West St. Chambers St
+* 2.	E 17 St & Broadway
+* 3.	Pershing Square North
+* 4.	12 Ave & W 40th St
+* 5.	8 Ave & W 31 St
+* 6.	W 21 St & 6 Ave
+* 7.	Broadway & E 22 St
+* 8.	Broadway & E 14 St
+* 9.	Broadway & W 60 St
+* 10.	W 20 St. & 11 Ave
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-1.	West St. Chambers St
-2.	E 17 St & Broadway
-3.	Pershing Square North
-4.	12 Ave & W 40th St
-5.	8 Ave & W 31 St
-6.	W 21 St & 6 Ave
-7.	Broadway & E 22 St
-8.	Broadway & E 14 St
-9.	Broadway & W 60 St
-10.	W 20 St. & 11 Ave
-
-
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-1.	West St. Chambers St
+Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+*1.	West St. Chambers St
 2.	E 17 St & Broadway
 3.	12 Ave & W 40 St
 4.	Pershing Square North
