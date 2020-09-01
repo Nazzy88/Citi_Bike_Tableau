@@ -22,7 +22,7 @@ How many trips have been recorded total during the chosen period?
 * There are over 12 million for the month of July years 2013-2020.
 
 By what percentage has total ridership grown?
-* It varies from year to year in July. The biggest increase was from 2015 to 2016 with a 27.12 % increase.  Currently there is a dip from 2019 to 2020 with a loss of 3.45%.  This could be due to Covid-17.  To be honest I thought the dip would be more since everyone is quarantining.  However, it looks like people are taking sanitary precautions such as gloves in order to rent the bikes.  OR they could be using their own bikes and using Citi Bike’s locks.   
+* It varies from year to year in July. The biggest increase was from 2015 to 2016 with a 27.12 % increase.  Currently there is a dip from 2019 to 2020 with a loss of 3.45%.  This could be due to Covid-19.  To be honest I thought the dip would be more since everyone is quarantining.  However, it looks like people are taking sanitary precautions such as gloves in order to rent the bikes.  OR they could be using their own bikes and using Citi Bike’s locks.   
 
 How has the proportion of short-term customers and annual subscribers changed?
 * Please note that I did look at the month of July from 2013 to 2020.
