@@ -51,9 +51,10 @@ Today, what are the top 10 stations in the city for ending a journey? (Based on 
 * 4.	Pershing Square North
 * 5.	W 21 St & 6 Ave
 * 6.	Broadway & E 22 St
-* 7.	8 Ave & W 31 St
-* 8.	Christopher St & Greenwich St
-* 9.	Broadway & E 14 St
+* 7.  W 20th St & 11th Ave
+* 8.	8 Ave & W 31 St
+* 9.	Christopher St & Greenwich St
+* 10.	Broadway & E 14 St
 
 
 Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
