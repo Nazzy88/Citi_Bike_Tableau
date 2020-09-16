@@ -1,7 +1,8 @@
 # Citi_Bike_Tableau
-Aggregate Data From the Citi Bike Trip History Logs to Build a Data Dashboard, Story, or Report Using Tableau
+Aggregate Data From the Citi Bike Trip History Logs to Build a Data Dashboard, Story, and Report Using Tableau
 
 ### Tableau Public Website
+Please expand the window by clicking on the bottom right button once you are on the site to be able to see all visualizations on each page:
 https://public.tableau.com/profile/nazia5720#!/vizhome/CitiBikeAnalysis_15988533209510/BikeStory
 
 ## Background
